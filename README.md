@@ -14,9 +14,12 @@ Proyek ini mengembangkan sistem cerdas untuk mendeteksi kepadatan lalu lintas se
 3. Google Colab: Lingkungan pemrograman berbasis cloud yang memungkinkan pelatihan model tanpa memerlukan perangkat keras lokal.​
 
 # 🚀 Cara Memulai
-1. Download script program beserta dataset yang sudah di training
+1. Download script program beserta dataset atau models (9v-m) yang sudah di training
 2. install library python ultralytics dengan script seperti berikut : !pip install ultralytics
 3. jalankan script program.
 
-# 📌 Panduan
-ikuti panduan berikut untuk menggunakan sistem ini secara realtime maupun pengambilan video statis
+# 📌 Tampilan
+1. Tampilan Pengambilan video secara real-time
+![Realtime Video](assets/screenshot_main_page.png)
+2. Tampilan Pengambilan video Statis
+![Statis Video](assets/screenshot_main_page.png)
