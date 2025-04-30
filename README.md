@@ -19,7 +19,5 @@ Proyek ini mengembangkan sistem cerdas untuk mendeteksi kepadatan lalu lintas se
 3. jalankan script program.
 
 # 📌 Tampilan
-1. Tampilan Pengambilan video secara real-time
 ![Realtime Video](assets/realtime.PNG)
-2. Tampilan Pengambilan video Statis
-![Statis Video](assets/realtime2e.PNG)
+![Statis Video](assets/realtimee.PNG)
