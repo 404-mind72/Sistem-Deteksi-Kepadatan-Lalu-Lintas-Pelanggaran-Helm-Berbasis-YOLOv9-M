@@ -20,4 +20,4 @@ Proyek ini mengembangkan sistem cerdas untuk mendeteksi kepadatan lalu lintas se
 
 # 📌 Tampilan
 ![Realtime Video](assets/realtime.PNG)
-![Statis Video](assets/realtimee.PNG)
+![Statis Video](assets/realtime2.PNG)
