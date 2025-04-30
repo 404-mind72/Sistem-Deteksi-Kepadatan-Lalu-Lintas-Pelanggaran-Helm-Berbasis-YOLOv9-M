@@ -18,6 +18,9 @@ Proyek ini mengembangkan sistem cerdas untuk mendeteksi kepadatan lalu lintas se
 2. install library python ultralytics dengan script seperti berikut : !pip install ultralytics
 3. jalankan script program.
 
+Note : berikut adalah link untuk download models, satukan dengan script program utama dalam satu folder
+https://drive.google.com/drive/folders/1s6lw9o2qFi8h-nJxO3zy9kzAx5k7dmgj?usp=sharing
+
 # 📌 Tampilan
 ![Realtime Video](assets/realtime.PNG)
 ![Statis Video](assets/realtime2.PNG)
